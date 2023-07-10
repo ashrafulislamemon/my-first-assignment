@@ -1,0 +1,248 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Lato";
+}
+
+body {
+}
+
+.banner {
+  height: 850px;
+  width: 100%;
+  background: rgba(229, 84, 115, 0.1);
+  display: flex;
+
+  justify-content: center;
+  gap: 100px;
+}
+.banner-text {
+  padding-top: 200px;
+}
+
+.banner-image {
+  padding-top: 50px;
+}
+
+.banner-head {
+  color: #272727;
+  font-family: Lato;
+  font-size: 80px;
+
+  font-weight: 800;
+  margin-bottom: 30px;
+}
+.banner-des {
+  color: rgba(39, 39, 39, 0.6);
+  font-family: Lato;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+}
+.btn-primary {
+  margin-top: 30px;
+  border-radius: 8px;
+  background: #e55473;
+  padding: 20px 40px;
+  border: 0;
+
+  color: #fff;
+  font-family: Lato;
+  font-size: 20px;
+
+  font-weight: 700;
+}
+
+.flower-head {
+  margin-top: 180px;
+}
+.flower-head-text {
+  color: #272727;
+  text-align: center;
+  font-family: Lato;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+.flower-des {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-family: Lato;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+  margin-bottom: 50px;
+}
+
+.flower-image {
+  height: 538px;
+  width: 80%;
+  margin: auto;
+
+  display: flex;
+  justify-content: space-around;
+
+  gap: 30px;
+  align-items: flex-end;
+}
+.img-1 {
+  height: 538px;
+  background: #e55473;
+  border-radius: 300px 300px 0px 0px;
+
+  background: rgba(167, 33, 98, 0.15);
+  vertical-align: bottom;
+}
+
+.dev-section {
+  height: 320px;
+  width: 80%;
+  margin: auto;
+  border-radius: 8px;
+  background: rgba(39, 39, 39, 0.05);
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+.dev-1 {
+  margin-top: 100px;
+}
+
+.off-section {
+  height: 620px;
+  width: 100%;
+
+  background: rgba(229, 84, 115, 0.05);
+}
+.off-section {
+  margin-top: 150px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  gap: 200px;
+}
+.text-all {
+  padding-top: 300px;
+}
+.offsection-image img {
+  margin-top: 100px;
+}
+.text-all h1 {
+  color: #272727;
+  font-family: Lato;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+
+.text-all p {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-family: Lato;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+}
+
+.multiple-img {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  height: 396px;
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.multiple-img {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  height: 396px;
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+/* Get The Latest Deals */
+.last {
+  height: 396px;
+  width: 80%;
+  margin: auto;
+  text-align: center;
+
+  background-image: url("../images/Rectangle 9.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin-top: 130px;
+
+  padding-top: 200px;
+}
+
+.last h1 {
+  font-family: Lato;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+
+.last p {
+  color: rgba(39, 39, 39, 0.6);
+
+  font-family: Lato;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+}
+
+.last input {
+  border-radius: 8px;
+  background: #fff;
+  border: 0;
+  padding: 20px 200px;
+  margin-right: 20px;
+}
+.footer-section {
+  background: #111010;
+  height: 400px;
+  width: 100%;
+  margin-top: 130px;
+  text-align: center;
+  padding-top: 300px;
+}
+
+.footer-header {
+  color: #e55473;
+  font-family: Lato;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+.footer-des {
+  color: rgba(255, 255, 255, 0.9);
+  text-align: center;
+  font-family: Lato;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+}
+
+.copy-right {
+  color: rgba(255, 255, 255, 0.4);
+  text-align: center;
+  font-family: Lato;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
