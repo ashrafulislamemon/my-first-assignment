@@ -93,7 +93,7 @@ body {
 
   height: 540px;
   width: 400px;
-  background: #e55473;
+  
   border-radius: 300px 300px 0px 0px;
   
   position: relative; 
@@ -288,5 +288,18 @@ body {
   line-height: normal;
 }
 .footer-header span{
-  
+  color:#fff;
+}
+.first{
+  background: #A72162;
+}
+.second{
+  background: #0597A0;
+}
+.third{
+  background: #477D11;
+}
+
+.text-all span{
+  color: #e55473;
 }
