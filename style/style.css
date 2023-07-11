@@ -292,18 +292,16 @@ body {
   color: #e55473;
 }
 
-
-.flower-link{
+.flower-link {
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   gap: 250px;
   width: 80%;
   margin: auto;
   text-align: center;
   margin-top: 50px;
-  
 }
 
-.flower-link a{
+.flower-link a {
   color: #111010;
 }
