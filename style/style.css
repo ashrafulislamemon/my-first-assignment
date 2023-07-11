@@ -305,3 +305,51 @@ body {
 .flower-link a {
   color: #111010;
 }
+
+.my-section {
+  height: 550px;
+  width: 80%;
+  margin: auto;
+  background: rgba(39, 39, 39, 0.05);
+  margin-top: 100px;
+  margin-bottom: 100px;
+  display: flex;
+  justify-content: center;
+  gap: 70px;
+}
+.my-section img {
+  height: 400px;
+  width: 500px;
+  padding-top: 80px;
+}
+
+.my-section-text {
+  margin-top: 150px;
+}
+.my-section-text h1 {
+  font-size: 40px;
+}
+.my-section-text h1 span {
+  color: #e55473;
+}
+
+.my-section-text p {
+  margin-top: 20px;
+  font-size: 16px;
+  color: rgba(39, 39, 39, 0.6);
+  line-height: 30px;
+}
+
+.my-section-text ul li {
+  margin-top: 20px;
+  font-size: 16px;
+  color: rgba(39, 39, 39, 0.6);
+  line-height: 5px;
+}
+
+.my-section-text ul {
+  list-style: none;
+}
+.b {
+  color: #e55473;
+}
