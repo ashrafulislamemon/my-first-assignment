@@ -291,3 +291,19 @@ body {
 .text-all span {
   color: #e55473;
 }
+
+
+.flower-link{
+  display: flex;
+  justify-content: center;
+  gap: 250px;
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  margin-top: 50px;
+  
+}
+
+.flower-link a{
+  color: #111010;
+}
